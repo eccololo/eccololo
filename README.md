@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eccololo&" alt="eccololo" /></p>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos:
 ![](https://github-contributor-stats.vercel.app/api?username=eccololo&limit=5&theme=flat&combine_all_yearly_contributions=true)
