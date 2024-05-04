@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_eccololo" target="blank"><img src="https://img.shields.io/twitter/follow/_eccololo?logo=twitter&style=for-the-badge" alt="_eccololo" /></a> </p>
 
-- 🌱 I’m currently learning **Django, React, React Native**
+- 🌱 I’m currently learning **Django, React, React Native, WooCommerce and Godot Engine**
 
 - 💬 Ask me about **collaboration opportunities**
 
