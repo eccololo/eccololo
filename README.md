@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **mateusz.hyla.job@gmail.com**
 
+- ⚡ Fun fact **I collect computer games**
+
 ### 💻 Connect with me:
 <p align="left">
 <a href="https://twitter.com/_eccololo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_eccololo" height="30" width="40" /></a>
