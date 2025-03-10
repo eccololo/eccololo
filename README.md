@@ -64,10 +64,6 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eccololo&show_icons=true&locale=en&layout=compact" alt="eccololo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eccololo&show_icons=true&locale=en" alt="eccololo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eccololo&" alt="eccololo" /></p>
 
 ### 💻 Top Contributed Repos:
