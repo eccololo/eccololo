@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/eccololo/eccololo/refs/heads/main/Social-Media-Banner-Django-Developer-1.png)](https://www.linkedin.com/in/eccololo/)
 <h1 align="center">Hi 👋, I'm Mateusz Hyla</h1>
-<h3 align="center">A passionate Game Developer from Poland</h3>
+<h3 align="center">A passionate Django Developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eccololo&label=Profile%20views&color=0e75b6&style=flat" alt="eccololo" /> </p>
 
