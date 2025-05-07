@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/eccololo/eccololo/refs/heads/main/Social-Media-Banner-Django-Developer-1.png)](https://www.linkedin.com/in/eccololo/)
+[![MasterHead](https://raw.githubusercontent.com/eccololo/eccololo/refs/heads/main/Social-Media-Banner-Best-1.png)](https://www.linkedin.com/in/eccololo/)
 <h1 align="center">Hi 👋, I'm Mateusz Hyla</h1>
 <h3 align="center">A passionate Django Developer from Poland</h3>
 
